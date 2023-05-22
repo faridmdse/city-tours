@@ -1,0 +1,17 @@
+* {
+  margin: 1;
+  padding: 1;
+  box-sizing: border-box;
+}
+
+// sass feature
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+body {
+  background: $mainGrey;
+  color: $mainGreen;
+  font-family: "open sans";
+}
